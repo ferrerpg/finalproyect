@@ -4,7 +4,7 @@
 Nuestro script es una herramienta de Python diseñada para realizar scraping de datos de cursos en línea en diferentes plataformas como Domestika, Coursera y Udemy. Utiliza Selenium para la automatización web y pandas para el manejo y análisis de datos.
 
 ## Características
-- **Scraping Web**: Automatiza la navegación en páginas de cursos en línea para extraer información relevante; como lo son los costos, las evaluaciones que recibe dicho curso, la duración e inclusive una posible descripcion del curso. 
+- **Scraping Web**: Automatiza la navegación en páginas de cursos en línea para extraer información relevante como lo son el costo por el curso, el sitio web el cual se esta extrayendo la información (Página de cursos de la que se esta hablando:  Domestika, Coursera y Udemy) y la calificación que posee dicho curso. 
 - **Análisis de Datos**: Utiliza pandas y pandasql para analizar y manipular los datos recopilados.
 - **Generación de Reportes**: Produce un archivo CSV con los datos recopilados y realiza varias consultas SQL para el análisis. 
 
